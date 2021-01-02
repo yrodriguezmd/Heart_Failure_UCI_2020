@@ -14,13 +14,14 @@ What follows is a copy of the abstract.  The full manuscript is available in a s
 
 
 
-#Prediction of Heart Failure Mortality using Machine Learning Algorithms
+
+Prediction of Heart Failure Mortality using Machine Learning Algorithms
 
 
-#Rodriguez M, 2021, January.
+Rodriguez M, 2021, January.
 
 
-#Abstract
+Abstract
 
 Background
 
